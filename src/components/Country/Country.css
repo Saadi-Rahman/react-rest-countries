@@ -1,0 +1,17 @@
+.countryItems {
+    padding: 10px;
+    border: 2px solid green;
+}
+
+.countryItems p {
+    margin: 0;
+}
+
+.countryItems h6 {
+    margin: 10px 0 0 0;
+}
+
+.countryItems img {
+    width: 170px;
+    height: 100px;
+}
